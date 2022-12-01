@@ -57,7 +57,7 @@ namespace ChASM
             //check for a commit character
             if (nCmdID == (uint)VSConstants.VSStd2KCmdID.RETURN
                 || nCmdID == (uint)VSConstants.VSStd2KCmdID.TAB
-                || (char.IsWhiteSpace(typedChar) || char.IsPunctuation(typedChar)))
+                || typedChar == '\t')
             {
                 //check for a selection
                 if (m_session != null && !m_session.IsDismissed)

@@ -30,6 +30,7 @@ namespace ChASM.Globalz
         {
             new Completion("pasteHelloWorldHere();",
 @"extrn MessageBoxA : proc
+extrn ExitProcess : proc
 
 .data
 szText db ""Welcome to the World of Windows x64 Assembly"", 0
@@ -43,12 +44,12 @@ Main proc
     lea rdx, szText
     xor rcx, rcx
     call MessageBoxA ;say hello
-    add rsp, 28h
 	
-    ret
+    xor rcx, rcx
+    call ExitProcess
 Main endp
 end",
-                "Paste Hello World program code here.",
+                "_paste_Hello_World_program_code_here",
                 CodeCompletion.GetItemIcon(CompletionItemType.CodeSample), null)
         };
     }

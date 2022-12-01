@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ChASM.973dae07-55bc-403f-a38d-04ec99d22059" Version="27.0" Language="en-US" Publisher="ethical.blue Magazine" />
+        <Identity Id="ChASM.973dae07-55bc-403f-a38d-04ec99d22059" Version="33.0" Language="en-US" Publisher="ethical.blue Magazine" />
         <DisplayName>ChASM</DisplayName>
         <Description xml:space="preserve">x86/x64 Assembly (MASM) Syntax Colorizer (+IntelliSense)</Description>
         <MoreInfo>https://ethical.blue/</MoreInfo>
