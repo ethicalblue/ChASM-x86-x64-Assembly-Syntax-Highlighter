@@ -23,6 +23,8 @@ This is temporary solution which was created because [Henk-JanLebbink.AsmDude](h
 
 The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Assembly Language (MASM) in Microsoft Visual Studio.
 
+![image](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/broken.png)
+
 # ChASM Features
 
 💥 Highlight General Purpose Registers (x86/x64)
