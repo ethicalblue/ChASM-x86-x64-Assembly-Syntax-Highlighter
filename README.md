@@ -2,7 +2,21 @@ Do you want to learn x86/x64 Assembly Language?
 
 Enjoy premium quality course available here:
 
-[https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
+**✨EN | x86/x64 Assembly Language for Cybersecurity Maniacs**
+
+*💥50+ Educational Code Samples, x86/x64 Instructions, MMX, SSE, AVX-512, C++/Asm & .NET/Asm Hybrid Apps💥*
+
+🔗🎞️ [https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
+
+Chciałbyś/chciałabyś nauczyć się języka Asembler x86/x64?
+
+Zapisz się na wysokiej jakości szkolenie premium dostępne tutaj:
+
+**✨PL | Asembler x86/x64 dla maniaków cyberbezpieczeństwa**
+
+*💥50+ edukacyjnych próbek kodu, rozkazy procesorów x86/x64, MMX, SSE, AVX-512, aplikacje hybrydowe C++/Asm oraz .NET/Asm💥*
+
+🔗🎞️ [https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
 
 [![course](course.png)](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
 
