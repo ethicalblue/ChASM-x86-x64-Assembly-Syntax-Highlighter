@@ -6,6 +6,8 @@ Enjoy premium quality course available here:
 
 *💥50+ Educational Code Samples, x86/x64 Instructions, MMX, SSE, AVX-512, C++/Asm & .NET/Asm Hybrid Apps💥*
 
+[![course](img/course.png)](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
+
 🔗🎞️ [https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
 
 Chciałbyś/chciałabyś nauczyć się języka Asembler x86/x64?
@@ -16,9 +18,9 @@ Zapisz się na wysokiej jakości szkolenie premium dostępne tutaj:
 
 *💥50+ edukacyjnych próbek kodu, rozkazy procesorów x86/x64, MMX, SSE, AVX-512, aplikacje hybrydowe C++/Asm oraz .NET/Asm💥*
 
-🔗🎞️ [https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
+[![course](img/coursepl.png)](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
 
-[![course](course.png)](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
+🔗🎞️ [https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
 
 # ChASM is x86/x64 Assembly Syntax Colorizer
 
@@ -35,22 +37,17 @@ The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Asse
 💥 Highlight System Calls (SYSCALL)
 💥 Signature Help for Mnemonics
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/001.png)
+![image](img/syscalls.png)
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/002.png)
+![image](img/asm01.png)
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/003.png)
+![image](img/asm02.png)
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/004.png)
+![image](img/asm03.png)
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/005.png)
+![image](img/asm04.png)
 
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/006.png)
-
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/007.png)
-
-![ChASM by Dawid Farbaniec](https://github.com/ethicalblue/ChASM-x86-x64-Assembly-Syntax-Highlighter/blob/main/images/008.png)
-
+![image](img/asm05.png)
 
 # Download ChASM from Visual Studio Marketplace
 
