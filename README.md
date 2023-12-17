@@ -1,41 +1,17 @@
-Do you want to learn x86/x64 Assembly Language?
-
-Enjoy premium quality course available here:
-
-**✨EN | x86/x64 Assembly Language for Cybersecurity Maniacs**
-
-*💥50+ Educational Code Samples, x86/x64 Instructions, MMX, SSE, AVX-512, C++/Asm & .NET/Asm Hybrid Apps💥*
-
-[![course](img/course.png)](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
-
-🔗🎞️ [https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/](https://www.udemy.com/course/x86-x64-assembly-in-cybersecurity/)
-
-Chciałbyś/chciałabyś nauczyć się języka Asembler x86/x64?
-
-Zapisz się na wysokiej jakości szkolenie premium dostępne tutaj:
-
-**✨PL | Asembler x86/x64 dla maniaków cyberbezpieczeństwa**
-
-*💥50+ edukacyjnych próbek kodu, rozkazy procesorów x86/x64, MMX, SSE, AVX-512, aplikacje hybrydowe C++/Asm oraz .NET/Asm💥*
-
-[![course](img/coursepl.png)](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
-
-🔗🎞️ [https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/](https://www.udemy.com/course/asembler-x86-x64-cyberbezpieczenstwo/)
-
-# ChASM is x86/x64 Assembly Syntax Colorizer
+# ChASM is low budget x86/x64 Assembly Syntax Colorizer
 
 The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Assembly Language (MASM) in Microsoft Visual Studio.
 
 # ChASM Features
 
-💥 Highlight General Purpose Registers (x86/x64)
-💥 Descriptions for Over 1000 Mnemonics
-💥 150+ General Purpose Registers with Description
-💥 Detect Common WinAPI Functions Calls
-💥 Syntax Help for Over 1500 Mostly Used WinAPI Functions
-💥 Colorize One Line Comments
-💥 Highlight System Calls (SYSCALL)
-💥 Signature Help for Mnemonics
+🟦 Highlight General Purpose Registers (x86/x64)
+🟦 Descriptions for Over 1000 Mnemonics
+🟦 150+ General Purpose Registers with Description
+🟦 Detect Common WinAPI Functions Calls
+🟦 Syntax Help for Over 1500 Mostly Used WinAPI Functions
+🟦 Colorize One Line Comments
+🟦 Highlight System Calls (SYSCALL)
+🟦 Signature Help for Mnemonics
 
 ![image](img/syscalls.png)
 
@@ -49,9 +25,8 @@ The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Asse
 
 ![image](img/asm05.png)
 
-# Download ChASM from Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=ethicalblue.chasm
+# Download ChASM
+https://ethical.blue/download/ChASM.vsix
 
 # Credits
 
