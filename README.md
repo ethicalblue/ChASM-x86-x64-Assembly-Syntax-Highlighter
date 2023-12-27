@@ -1,4 +1,4 @@
-# ChASM is low budget Syntax Colorizer
+# ChASM is Low Budget Syntax Colorizer
 
 The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Assembly Language (MASM) in Microsoft Visual Studio.
 
