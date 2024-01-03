@@ -6,7 +6,7 @@ The idea of ChASM extension is to provide basic syntax coloring for x86/x64 Asse
 
 - Highlight General Purpose Registers (x86/x64)
 - Descriptions for Over 1000 Mnemonics
-- 150+ General Purpose Registers with Description
+- 150+ Registers with Description
 - Detect Common WinAPI Functions Calls
 - Syntax Help for Over 1500 Mostly Used WinAPI Functions
 - Colorize One Line Comments
