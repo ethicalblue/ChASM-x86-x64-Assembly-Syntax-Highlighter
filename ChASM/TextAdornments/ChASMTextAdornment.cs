@@ -80,7 +80,7 @@ namespace ChASM.TextAdornments
                 charIndexEnd = i;
             }
 
-            var textBlock = Utils.CreateTextBlock(TextBlockType.TextString, currentText);
+            var textBlock = Utilz.CreateTextBlock(TextBlockType.TextString, currentText);
 
             if (charIndex == charIndexEnd && charIndexEnd < line.End)
                 charIndexEnd++;
@@ -101,7 +101,7 @@ namespace ChASM.TextAdornments
                 charIndexEnd = i;
             }
 
-            var textBlock = Utils.CreateTextBlock(TextBlockType.Comment, currentComment);
+            var textBlock = Utilz.CreateTextBlock(TextBlockType.Comment, currentComment);
 
             if (charIndex == charIndexEnd && charIndexEnd < line.End)
                 charIndexEnd++;
@@ -119,7 +119,7 @@ namespace ChASM.TextAdornments
                 char.IsLetterOrDigit(view.TextSnapshot[startIndexReg + currentRegister.Length]))
                 return;
 
-            var textBlock = Utils.CreateTextBlock(TextBlockType.GeneralPurposeRegister, currentRegister);
+            var textBlock = Utilz.CreateTextBlock(TextBlockType.GeneralPurposeRegister, currentRegister);
 
             AddAdornmentToLayer(ref textViewLines, textBlock, startIndexReg, startIndexReg + currentRegister.Length);
         }
@@ -134,7 +134,7 @@ namespace ChASM.TextAdornments
                 char.IsLetterOrDigit(view.TextSnapshot[startIndexSpec + currentSpecial.Length]))
                 return;
 
-            var textBlock = Utils.CreateTextBlock(TextBlockType.SpecialWord, currentSpecial);
+            var textBlock = Utilz.CreateTextBlock(TextBlockType.SpecialWord, currentSpecial);
 
             AddAdornmentToLayer(ref textViewLines, textBlock, startIndexSpec, startIndexSpec + currentSpecial.Length);
         }
@@ -160,7 +160,7 @@ namespace ChASM.TextAdornments
             string register = currentRegister;
             string special = currentSpecial;
 
-            if (Globalz.Registers.GPRs.Any(a => a.StartsWith(register)) == false &&
+            if (Globalz.Registers.x64_Registers.Any(a => a.StartsWith(register)) == false &&
                 Globalz.Specialz.Items.Any(a => a.StartsWith(special)) == false)
             {
                 currentRegister = currentSpecial = string.Empty;
@@ -168,7 +168,7 @@ namespace ChASM.TextAdornments
             }
             else
             {
-                if (Globalz.Registers.GPRs.Contains(currentRegister))
+                if (Globalz.Registers.x64_Registers.Contains(currentRegister))
                 {
                     GeneralPurposeRegisterDetected(ref textViewLines, ref line, startIndexReg, currentRegister);
                 }

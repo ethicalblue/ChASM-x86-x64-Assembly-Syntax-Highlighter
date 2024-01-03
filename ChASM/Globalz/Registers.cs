@@ -196,7 +196,7 @@ namespace ChASM.Globalz
 
         };
 
-        public static HashSet<string> GPRs = new HashSet<string>()
+        public static HashSet<string> x64_Registers = new HashSet<string>()
         {
             "rax",
             "eax",

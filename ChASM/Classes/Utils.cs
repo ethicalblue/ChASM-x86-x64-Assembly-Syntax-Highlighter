@@ -4,18 +4,13 @@
  * 
  */
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
 namespace ChASM
 {
-    internal class Utils
+    internal class Utilz
     {
         internal static TextBlock CreateTextBlock(TextBlockType textBlockType, string text)
         {
